@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-china-provider",
+  "name": "leaflet-china-map-provider",
   "version": "1.0.0",
   "description": "leafet china rovider",
   "author": "883120lee@gmail.com",
@@ -61,7 +61,7 @@
   "main": "dist/china.provider.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lidechao000/chinaProvider.git"
+    "url": "git+https://github.com/lidechao000/chinaProvider.git"
   },
   "engines": {
     "node": ">= 6.0.0",
@@ -76,5 +76,13 @@
     "leaflet",
     "map",
     "china rovider"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/lidechao000/chinaProvider/issues"
+  },
+  "homepage": "https://github.com/lidechao000/chinaProvider#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "license": "ISC"
 }
